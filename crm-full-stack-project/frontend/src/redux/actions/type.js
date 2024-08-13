@@ -1,0 +1,10 @@
+export const CREATE_ADMIN = 'CREATE_ADMIN';
+export const UPDATE_ADMIN = 'UPDATE_ADMIN';
+export const LIST_ADMINS = 'LIST_ADMINS';
+export const CREATE_VISIT = 'CREATE_VISIT';
+export const UPDATE_VISIT = 'UPDATE_VISIT';
+export const LIST_VISITS = 'LIST_VISITS';
+export const CREATE_EMPLOYEE = 'CREATE_EMPLOYEE';
+export const UPDATE_EMPLOYEE = 'UPDATE_EMPLOYEE';
+export const LIST_EMPLOYEES = 'LIST_EMPLOYEES';
+

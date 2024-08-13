@@ -1,0 +1,17 @@
+.tableDesign {
+    .table thead th {
+        background-color: #f4f6f8;
+        font-size: 11px;
+        color: #464f60;
+        white-space: nowrap;
+        text-transform: uppercase;
+    }
+
+    .table tbody td {
+        font-size: 14px;
+        line-height: 1.43;
+        letter-spacing: 0.28px;
+        color: #171c26;
+        text-align: left;
+    }
+}
